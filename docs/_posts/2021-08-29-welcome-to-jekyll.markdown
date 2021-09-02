@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Isaac Racine's Webpage!"
 date:   2021-08-29 17:48:34 +0200
 categories: jekyll update
 ---
