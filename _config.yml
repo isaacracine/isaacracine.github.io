@@ -23,8 +23,8 @@ email: isaac.racine@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website with details about my research experience,
   education, community involvment and information about me.
-baseurl: "personalwebpage" # the subpath of your site, e.g. /blog
-url: "https://isaacracine.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://isaacracine.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: #jekyllrb
 github_username:  isaacracine
 
