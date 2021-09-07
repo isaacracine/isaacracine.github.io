@@ -28,6 +28,7 @@ url: "https://isaacracine.github.io" # the base hostname & protocol for your sit
 twitter_username: #jekyllrb
 github_username:  isaacracine
 
+
 # Build settings
 #theme: minima
 #remote_theme: pages-themes/slate@v0.2.0
