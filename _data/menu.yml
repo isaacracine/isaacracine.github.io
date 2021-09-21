@@ -4,5 +4,11 @@
   link: about.html
 - title: Resume
   link: resume.html
+- title: Contact
+  link: contact.html
 - title: Current Research
   link: current_research.html
+- title: Past Research
+  link: past_research.html
+- title: Recognition
+  link: recognition.html

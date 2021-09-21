@@ -2,5 +2,4 @@
 layout: default
 ---
 
-This is my resume page... Still under construction! 
-
+[Resume](pdfs\Copy of Resume for Website.pdf) 
