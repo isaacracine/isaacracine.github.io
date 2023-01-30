@@ -2,20 +2,34 @@
 layout: default
 ---
 
-This page is full of references including old bosses, advisors and PI's.
+My references for current/prior experiences:
 
 
-### Dr. Jeanne Harris
 
-During my undergraduate years Jeanne was my advisor. She gave me insight that let me be so successful during  that time.
+### Dr. Isabelle Cleynen 
 
-Email: [jeanne.harris@uvm.edu](mailto:jeanne.harris@uvm.edu)
+Master's Thesis Supervisor and PI (KU Leuven - Department of Human Genetics - Laboratory for Complex Genetics, 2022-2023)
+
+Email: [isabelle.cleynen@kuleuven.be](mailto:isabelle.cleynen@kuleuven.be)
+
+### Johan Van Wayenbergh
+
+Co-promoter of Master's Thesis and Senior Scientist (KU Leuven - Rega Institute for Medical Research, 2022-2023)
+
+Email: [johan.vanweyenbergh@kuleuven.be](mailto:johan.vanweyenbergh@kuleuven.be)
 
 
 ### Dr. Jill Preston
 
-Jill was the PI of the first lab that I worked in. She gave me a lot of freedom, allowing me to learn from my mistakes. I am thrilled of all the wet bench experience I gained and her willingness to supervise a small bioinformatic research project. 
+Undergraduate Research PI (University of Vermont - Department of Plant Biology, 2019-2020)
 
 
 Email: [jill.preston@uvm.edu](mailto:jill.preston@uvm.edu)
+
+### Dr. Jeanne Harris
+
+Undergraduate Academic Advisor (University of Vermont, 2017-2021)
+
+Email: [jeanne.harris@uvm.edu](mailto:jeanne.harris@uvm.edu)
+
 

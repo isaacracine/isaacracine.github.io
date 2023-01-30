@@ -9,18 +9,22 @@ layout: default
 
 # Programming:
 * Java, Python and R: intermediate
-* HPC knowledge relating to basic shell commands, Conda, and various bioinformatic tools
+* HPC knowledge relating to basic shell commands, package managers, and various bioinformatic tools
 * Experience with Git, MatLab and SQL
+* PLINK - Whole genome data analysis tool set
+* PRSice, lassoSum - Polygenic Risk Score
 
 # Biology
-* Well versed in genetics for eukaryotas (plants) and bacteria
-* Understands large scale omic fields and their applications
+* Well versed in genetics for Eukaryotas and bacteria
+* Understands and applies large scale omic fields and their applications
 * Practice with protein modeling software: Chimeria, PyMol
+* Practice with evolutionary modeling: BEAST, BLAST, alignment algorithms
+* Practice with regulatory genomic packages
 
 # Statisitcs
-* Data science and large scale data experience
-* Practice with theoretical statistics
+* Data science and machine learning
+* Practice with theoretical statistics, Bayesian modeling 
 
 # Other
-* Several years food service jobs have provided lots of experience with working in a team and customer service 
-* Practicing German
+* Several years food service jobs have provided lots of experience with working in a team and problem solving
+* Has beginner French and German, willing to learn either if given a transition period 
