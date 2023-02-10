@@ -12,7 +12,8 @@ Master's Thesis Supervisor and PI (KU Leuven - Department of Human Genetics - La
 
 Email: [isabelle.cleynen@kuleuven.be](mailto:isabelle.cleynen@kuleuven.be)
 
-### Johan Van Wayenbergh
+
+### Dr. Johan Van Wayenbergh
 
 Co-promoter of Master's Thesis and Senior Scientist (KU Leuven - Rega Institute for Medical Research, 2022-2023)
 

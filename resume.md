@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Resume](pdfs\public_CV.pdf) 
+[Resume](pdfs\public_CV_feb_2023.pdf) 
 
 
 ## Experience Overview
@@ -23,7 +23,7 @@ layout: default
 
 # Statisitcs
 * Data science and machine learning
-* Practice with theoretical statistics, Bayesian modeling 
+* Practice with theoretical statistics, Bayesian modeling, linear algebra 
 
 # Other
 * Several years food service jobs have provided lots of experience with working in a team and problem solving
