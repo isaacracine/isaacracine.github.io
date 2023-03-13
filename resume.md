@@ -15,7 +15,7 @@ layout: default
 * PRSice, lassoSum - Polygenic Risk Score
 
 # Biology
-* Well versed in genetics for Eukaryotas and bacteria
+* Well versed in eukaryotic and prokaryotic genetics
 * Understands and applies large scale omic fields and their applications
 * Practice with protein modeling software: Chimeria, PyMol
 * Practice with evolutionary modeling: BEAST, BLAST, alignment algorithms
